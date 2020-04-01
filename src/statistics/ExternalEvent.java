@@ -1,4 +1,4 @@
-
+package statistics;
 
 public interface ExternalEvent {
 	abstract String description;

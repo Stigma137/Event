@@ -1,3 +1,5 @@
+package statistics;
+
 import math.src.main.java.org.apache.commons.math3.distribution.*;
 public class ProbabilisticDistribution {
 	public EventType field;
